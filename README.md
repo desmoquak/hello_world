@@ -1,3 +1,3 @@
 # hello_world
-here is the  new respoitory
-this is the first edit to Hello World.
+here is the  new respoitory.
+This is the first edit to Hello World.
